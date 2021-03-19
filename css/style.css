@@ -35,3 +35,14 @@ p,ul,ol{
 	position: relative;
 	opacity: .5;
   }
+   /* VIDEO */
+  .video {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    z-index: 0;
+    width: 104%;
+    transform: translate(-50%, -50%);
+    opacity: 0.5;
+    margin-top: 40px;
+}
