@@ -203,9 +203,35 @@ img.logo {
 	font-weight: bold;
 	letter-spacing: 1px;: 1px;
 }
+.agileits_w3layouts_features_grid img {
+		width: 36%;
+		margin: 0 auto;
+	}
+ /*-- Testimonials --*/
+#testimonials {
+    background: url(../images/massage_table_erica.jpg)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+	min-height:620px;
+    min-height: 583px;
+}   
+
+.w3ls-agile-service-grid {
+		padding: 2em 1em;
+		float: left;
+		width: 100%;
+        background: #7D4B4B;
+        padding: 5.48em 2em;
+	}
     
 /* other*/
-
+.agileits_w3layouts_features_grid img{
+	width:100%;
+}
 
 div {
     width: 100%;
