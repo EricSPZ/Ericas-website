@@ -46,3 +46,7 @@ p,ul,ol{
     opacity: 0.5;
     margin-top: 40px;
 }
+.banner{
+	background:url(../images/Erica-Rocha.jpg) no-repeat 0px 0px;
+	background-size: contain;
+}
